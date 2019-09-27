@@ -1,0 +1,56 @@
+.logo {
+    width:20%;
+    height:auto;
+}
+
+.nav-titles{
+    color: black !important;
+}
+
+.main-color{
+    color:#316237
+}
+
+.bg-main-color{
+    background-color: #316237 !important;
+    border-color: dimgrey !important;
+}
+
+.navbar {
+    background-color: white !important;
+}
+
+.navbar-brand {
+    color: #316237 !important;
+}
+
+ul.social-buttons{
+    color: #316237 !important;
+    border-color: #316237 !important;
+}
+
+.list-inline-item:hover{
+    color: #316237 !important;
+    border-color: #316237 !important;
+}
+
+.list-inline-item{
+    color: #316237 !important;
+    border-color: #316237 !important;
+}
+
+.a {
+    color: #316237 !important;
+    border-color: #316237 !important;
+}
+
+.a:hover{
+    color: #316237 !important;
+    border-color: #316237 !important;
+    background-color: #316237 !important;
+}
+
+.social-buttons:hover {
+    color: #316237 !important;
+    border-color: #316237 !important;
+}
