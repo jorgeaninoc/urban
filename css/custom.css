@@ -42,6 +42,7 @@ ul.social-buttons{
 .a {
     color: #316237 !important;
     border-color: #316237 !important;
+    background-color: #316237 !important;
 }
 
 .a:hover{
@@ -52,5 +53,17 @@ ul.social-buttons{
 
 .social-buttons:hover {
     color: #316237 !important;
-    border-color: #316237 !important;
 }
+
+.timeline > li .timeline-image {
+    background-color: #316237 !important;
+}
+
+#hov {
+    background-color: black !important;
+}
+
+#hov:hover {
+    background-color: #316237 !important;
+}
+
