@@ -5,6 +5,7 @@
 
 .nav-titles{
     color: black !important;
+    font-family: 'Bandal';
 }
 
 .main-color{
@@ -66,4 +67,17 @@ ul.social-buttons{
 #hov:hover {
     background-color: #316237 !important;
 }
+
+.img-services {
+    height: 410px !important;
+}
+
+
+#img-carousel{
+    height: 100% !important;
+    width: 100% !important;
+}
+
+
+
 
